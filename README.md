@@ -1,4 +1,4 @@
-Projeto desenvolvido em Java para a disciplica de Orientação a Objetos.
+Projeto desenvolvido em Java para a disciplina de Orientação a Objetos.
 
 O objetivo do projeto era criar um aplicativo para nutricionistas, utilizando padrãoes DAO e MVC.
 
